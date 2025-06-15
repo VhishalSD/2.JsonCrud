@@ -1,0 +1,29 @@
+{
+  "People": [
+    {
+      "Id": 1,
+      "FirstName": "Jan",
+      "LastName": "Jansen",
+      "BirthDate": "01-01-2000",
+      "Department": "IT",
+      "Company": "Stapelzorg"
+    },
+    {
+      "Id": 2,
+      "FirstName": "Kees",
+      "LastName": "Kazan",
+      "BirthDate": "02-02-2000",
+      "Department": "HR",
+      "Company": "Stapelzorg"
+    },
+    {
+      "Id": 3,
+      "FirstName": "Peter",
+      "LastName": "Jan",
+      "BirthDate": "12-01-2002",
+      "Department": "HR",
+      "Company": "Stapelzorg"
+    }
+  ],
+  "NextId": 5
+}
