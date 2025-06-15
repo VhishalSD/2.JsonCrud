@@ -488,7 +488,7 @@ class Program
         }
     }
 
-    // Cleans gebruikersinvoer om ongewenste tekens te verwijderen
+    // Cleans(reinigt?) gebruikersinvoer om ongewenste tekens te verwijderen
     private static string SanitizeInput(string input)
     {
         if (string.IsNullOrWhiteSpace(input))
