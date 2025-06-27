@@ -15,3 +15,4 @@
 /Users/vhishal/Stage/Opdrachten/2.JsonCrud/obj/Debug/net9.0/2.JsonCrud.pdb
 /Users/vhishal/Stage/Opdrachten/2.JsonCrud/obj/Debug/net9.0/2.JsonCrud.genruntimeconfig.cache
 /Users/vhishal/Stage/Opdrachten/2.JsonCrud/obj/Debug/net9.0/ref/2.JsonCrud.dll
+/Users/vhishal/Stage/Opdrachten/2.JsonCrud/obj/Debug/net9.0/2.JsonCrud.sourcelink.json

@@ -1,0 +1,13 @@
+{
+  "People": [
+    {
+      "Id": 2,
+      "FirstName": "Jaap",
+      "LastName": "Blok",
+      "BirthDate": "01-02-1983",
+      "Department": "IT",
+      "Company": "Stapelzorg"
+    }
+  ],
+  "NextId": 3
+}

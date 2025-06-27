@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "p07dzRvnlI4=",
+  "dgSpecHash": "HFSA73I92tNvm/23E3j3fXpFEwPuhPLWtbu/5U6LRg0uRik/3imwifsrk8Fe7yOO5ml7McVHRI2u+Qi69/tgsQ==",
   "success": true,
   "projectFilePath": "/Users/vhishal/Stage/Opdrachten/2.JsonCrud/2.JsonCrud.csproj",
   "expectedPackageFiles": [
-    "/Users/vhishal/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+    "/Users/vhishal/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/vhishal/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/vhishal/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/vhishal/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
   ],
   "logs": []
 }
