@@ -1,7 +1,7 @@
 # 2.JsonCrud
 
 ## Beschrijving
-Dit is een C# console-applicatie ontwikkeld als stageopdracht. De applicatie biedt CRUD-functionaliteit (Create, Read, Update, Delete) voor het beheren van personen, met opslag en ophalen van gegevens in een JSON-bestand. Het project is voltooid op 15 juni 2025 door Vhishal Tewarie.
+Dit is een C# console-applicatie ontwikkeld als stageopdracht. De applicatie biedt CRUD-functionaliteit (Create, Read, Update, Delete) voor het beheren van personen, met opslag en ophalen van gegevens in een JSON-bestand. Het project is voltooid op 15 juni 2025 door Vhishal Tewari.
 
 ## Functies
 - Toevoegen van nieuwe personen met voornaam, achternaam, geboortedatum, afdeling en bedrijf.
