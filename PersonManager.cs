@@ -13,7 +13,7 @@ public class PersonManager
     public PersonManager(JsonFileHandler jsonHandler)
     {
         this.jsonHandler = jsonHandler;
-        people = jsonHandler.LoadFromJson("people.json");
+        people = jsonHandler.LoadFromJson("People.json");
         nextId = people.Any() ? people.Max(p => p.Id) + 1 : 1;
     }
 
@@ -178,4 +178,11 @@ public class PersonManager
 
     // Property om buiten deze klasse de lijst op te vragen
     public List<Person> People { get { return people; } }
+
+    public void SaveAndExit()
+    {
+        jsonHandler.SaveToJson("People.json", people, nextId);
+    }
 }
+
+    

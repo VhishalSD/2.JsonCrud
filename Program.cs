@@ -47,13 +47,7 @@ class Program
                         break;
 
                     case "5":
-                        // Bepaal het juiste nextId voor opslag
-                        int nextId = personManager.People.Any()
-                            ? personManager.People.Max(p => p.Id) + 1
-                            : 1;
-
-                        // Sla data op en sluit af
-                        jsonHandler.SaveToJson("people.json", personManager.People, nextId);
+                        personManager.SaveAndExit();
                         running = false;
                         break;
 

@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vhishal/Stage/Opdrachten/2.JsonCrud/2.JsonCrud.csproj",
+      "projectUniqueName": "/Users/vhishal/Stage/Opdrachten/2.JsonCrud_BACKUP/2.JsonCrud.csproj",
       "projectName": "2.JsonCrud",
-      "projectPath": "/Users/vhishal/Stage/Opdrachten/2.JsonCrud/2.JsonCrud.csproj",
+      "projectPath": "/Users/vhishal/Stage/Opdrachten/2.JsonCrud_BACKUP/2.JsonCrud.csproj",
       "packagesPath": "/Users/vhishal/.nuget/packages/",
-      "outputPath": "/Users/vhishal/Stage/Opdrachten/2.JsonCrud/obj/",
+      "outputPath": "/Users/vhishal/Stage/Opdrachten/2.JsonCrud_BACKUP/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vhishal/.nuget/NuGet/NuGet.Config"

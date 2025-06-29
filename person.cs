@@ -26,19 +26,4 @@ public class Person
     public string? Company { get; set; }
 }
 
-// Eigen converter voor het lezen en schrijven van datums in JSON
-public class CustomDateTimeConverter : JsonConverter<DateTime>
-{
-    // Methode om een datum te lezen vanuit JSON (tekst -> DateTime)
-    public override DateTime Read(ref Utf8JsonReader reader, Type typeToConvert, JsonSerializerOptions options)
-    {
-        // Haal de tekst uit de JSON en zet deze om naar een DateTime object
-        return DateTime.Parse(reader.GetString() ?? "");
-    }
-    // Methode om een datum uit te schrijven naar JSON (DateTime -> tekst)
-    public override void Write(Utf8JsonWriter writer, DateTime value, JsonSerializerOptions options)
-    {
-        // Schrijf de datum als string in het formaat: dag-maand-jaar
-        writer.WriteStringValue(value.ToString("dd-MM-yyyy"));
-    }
-}
+
