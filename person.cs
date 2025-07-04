@@ -14,9 +14,6 @@ public class Person
     // Achternaam van de peroon (mag null zijn)
     public string? LastName { get; set; }
 
-
-    // Geboortedatum van de persoon, met aangepaste JSON-conversie
-    [JsonConverter(typeof(CustomDateTimeConverter))]
     public DateTime BirthDate { get; set; }
 
     // Afdeling waar de persoon werkt
